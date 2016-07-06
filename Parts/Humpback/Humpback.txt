@@ -1,0 +1,6 @@
+Humpback
+
+Renamed from L Fuselage
+
+1: cockpit texture missing
+2: all modules need FS/IFS

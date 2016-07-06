@@ -1,0 +1,15 @@
+Stail Class
+
+Renamed from B Fuselage
+
+1: Cockpit lights nonfunctional
+2: Nof FS/IFS on tanks
+3: Science module nonfunctional
+4: Inline docking port won't close/missing texture
+5: Mk1 Drop bay wrong model
+6: Mk2 Drop bay wrong model
+7: Stail Freight bay wont attach natively
+8: Stail Freight bay wont open/close
+9: Stail Class QS01 Cockpit missing texture
+10: Stail Freight Tail wont open/close
+11: Stail Freight adapter node issue.

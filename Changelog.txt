@@ -1,0 +1,46 @@
+1.8.1.2
+
+* Added J Freight Parts
+* Added B Drop bays
+* Removed L Cargo tail Deploy Limit (because of how it opens)
+* Removed A Cargo tail (didn't open anyway)
+* Added FS patch for L bicoupler.
+* Fixed Mk3 Shuttle Nose
+
+1.8.1.1
+
+* Added old hollow K parts as C parts, added Deploy limit to C Cargo Tail.
+* Added old J-QS01 cockpit as B-QS01
+* Added old 'integrated' wings as 1a, 1b and 1c
+* Used the fixes uploaded by **AccidentalDisassembly** as basis to roll into new version.
+
+1.8.1.0
+
+* Version Numbering Changed to bring in line with K.Yeon's system.
+* J Drone Core Copied and edited. J SAS Module added using J Drone Core Assets.
+* Added AVC Compatability
+* Fixed A Cargo Tail appearing as Bi-Coupler
+* L Cargo Tail fixed to have Deploy Limit.
+
+1.8T6
+
+* 1.6, 1.69 and 1.8Test parts incorporated. 
+* Old J parts renamed B parts, Old K parts renamed A Parts.
+* CLS Patch added.
+
+Planned Changes/Updates
+
+* Change PNG textures to DDS
+* Re-Organise Folder Structure
+* Double check IFS and CLS patches for all parts.
+* Rename all parts to add 'OPT_' to the begining for mod compatabilities
+* Add real fuels MM patches.
+* Add Normal maps to parts.
+* Remodel/Retexture J SAS Module.
+
+Special Thanks:
+
+Nils277 - for his help on the CLS patch
+Winchester - for his work in compiling the multiple versions I found.
+AccidentalDisassembly - for his patching/editing to help clean the mod up
+K.Yeon - Without you this mod would not exist, thank you for letting us maintain it while you are away.
