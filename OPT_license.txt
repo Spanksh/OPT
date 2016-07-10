@@ -7,4 +7,4 @@ Models and texture are created by k.yeon
 Texture inspired by Porkjet
 used stock texture:mk2DockingPort
 Sounds are from:http://www.freespecialeffects.co.uk/
-Maintained by Moobien/stali79 & Winchester
+Maintained by Moobien/stali79
