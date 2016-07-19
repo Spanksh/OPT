@@ -1,3 +1,26 @@
+1.8.5
+
+* Renamed all  fuselage profiles
+* Added J-81 Hybrid Turbojet Nacelle
+* Added new model for JSAS module
+* Cleaned up FS MM Patch
+* Cleaned up CLS MM Patch
+* Created Default Resource MM Patch
+* Created IFS MM Patch
+* Moved common textures to dedicated folder
+* Set texture referencing for affected models
+* Added the people who helped with this project as easter eggs
+* Added Custom KTAV cockpit
+* Removed OLD K cargo bay & bicoupler
+* Humpback cockpit model optimized
+* Readded old OPT landing gears (WARNING BUGGY)
+* Added 'tags =' to part configs for easier searching of parts
+* Updated old 'mesh =' to 'model ='
+* Changed Pylon A and Pylon B to Wing Root A and Wing Root B
+* Experimented with inverted textures (looked kinda cool)
+
+
+
 1.8.1.2
 
 * Added J Freight Parts
