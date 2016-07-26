@@ -1,6 +1,6 @@
 1.8.5
 
-* Renamed all  fuselage profiles
+* Renamed all fuselage profiles
 * Added J-81 Hybrid Turbojet Nacelle
 * Added new model for JSAS module
 * Cleaned up FS MM Patch
@@ -13,12 +13,13 @@
 * Added Custom KTAV cockpit
 * Removed OLD K cargo bay & bicoupler
 * Humpback cockpit model optimized
-* Readded old OPT landing gears (WARNING BUGGY)
+* Readded old OPT landing gears (WARNING BUGGY as hell!)
 * Added 'tags =' to part configs for easier searching of parts
 * Updated old 'mesh =' to 'model ='
 * Changed Pylon A and Pylon B to Wing Root A and Wing Root B
 * Experimented with inverted textures (looked kinda cool)
-
+* Added side attach nodes to Juno and Kraken tanks/bays
+* Added Hyomoto's Antenna blade and updated its texture
 
 
 1.8.1.2
@@ -67,3 +68,8 @@ Nils277 - for his help on the CLS patch
 Winchester - for his work in compiling the multiple versions I found.
 AccidentalDisassembly - for his patching/editing to help clean the mod up
 K.Yeon - Without you this mod would not exist, thank you for letting us maintain it while you are away.
+Hyomoto - For granting us the right to add your antenna to the OPT Mod 
+
+EXTRA Special Thanks:
+
+To the awesome team who worked on this major update. Thank you Stone Blue, Starwaster and M_Ouellette
