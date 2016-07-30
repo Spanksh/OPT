@@ -1,0 +1,8 @@
+This file contains the list of suggested additions.
+
+* Adapters to allow more part combinations
+* Remake of Avatar cockpit/adapter to single part
+* Add modified version of avatar cockpit/adapter to Kraken system
+* Drop bay (lowering floor) for cargo parts
+* IVA's for cockpits lacking them
+* RPM support for Cockpits.

@@ -54,13 +54,9 @@
 
 Planned Changes/Updates
 
-* Change PNG textures to DDS
-* Re-Organise Folder Structure
+
 * Double check IFS and CLS patches for all parts.
-* Rename all parts to add 'OPT_' to the begining for mod compatabilities
 * Add real fuels MM patches.
-* Add Normal maps to parts.
-* Remodel/Retexture J SAS Module.
 
 Special Thanks:
 
