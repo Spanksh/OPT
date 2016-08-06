@@ -7,3 +7,4 @@ This file contains the list of suggested additions.
 * IVA's for cockpits lacking them
 * RPM support for Cockpits.
 * VTOL Fuselage
+* Forward Swept Wings

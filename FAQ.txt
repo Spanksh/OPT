@@ -1,6 +1,9 @@
 Welcome to the OPT Frequently Asked Questions list.
 If you can't find the answer to your problem here then
-feel free to post your LOGS into the thread on the forums and detail the issue you are having.
+feel free to post your KSP.log into the thread on the forums
+and detail the issue you are having.
+
+NO LOG - NO HELP
 
 
 1) Holy crap these parts are awesome but they have no fuel?!
