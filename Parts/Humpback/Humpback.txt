@@ -1,7 +1,0 @@
-Humpback
-
-Renamed from L Fuselage
-
-1: cockpit texture missing - RESOLVED
-2: all modules need FS - RESOLVED
-3: No model hatches - In Progress
