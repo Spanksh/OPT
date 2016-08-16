@@ -3,10 +3,12 @@
 * Renamed all fuselage profiles
 * Added J-81 Hybrid Turbojet Nacelle
 * Added new model for JSAS module
-* Cleaned up FS MM Patch
-* Cleaned up CLS MM Patch
+* Cleaned up Firespitter MM Patch
+* Cleaned up Connected Living Space MM Patch
 * Created Default Resource MM Patch
-* Created IFS MM Patch
+* Created Interstellar Fuel Switch MM Patch - PENDING
+* Created Real Fuels Patch
+* Created Modular Fuel Tanks MM Patch.
 * Moved common textures to dedicated folder
 * Set texture referencing for affected models
 * Added the people who helped with this project as easter eggs
@@ -17,9 +19,12 @@
 * Added 'tags =' to part configs for easier searching of parts
 * Updated old 'mesh =' to 'model ='
 * Changed Pylon A and Pylon B to Wing Root A and Wing Root B
-* Experimented with inverted textures (looked kinda cool)
+* Experimented with inverted textures (looked kinda cool) But put on hold.
 * Added side attach nodes to Juno and Kraken tanks/bays
 * Added Hyomoto's Antenna blade and updated its texture
+* Reorganised folder/file structure.
+* Some models optimized.
+
 
 
 1.8.1.2
