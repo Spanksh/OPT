@@ -24,6 +24,7 @@
 * Added Hyomoto's Antenna blade and updated its texture
 * Reorganised folder/file structure.
 * Some models optimized.
+* Adjusted cockpit masses
 
 
 
