@@ -25,7 +25,8 @@
 * Reorganised folder/file structure.
 * Some models optimized.
 * Adjusted cockpit masses
-
+* Removed Chimera cockpit
+* Consolidated remaining Chimera parts into Avatar Parts
 
 
 1.8.1.2
