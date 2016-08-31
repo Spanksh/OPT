@@ -9,3 +9,4 @@ This file contains the list of suggested additions.
 * VTOL Fuselage
 * Forward Swept Wings
 * MK IV & Space-Y Adapters.
+* Radial mono tanks/RCS thrusters (like old B9)
