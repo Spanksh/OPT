@@ -1,3 +1,10 @@
+1.8.5.1
+
+* Minor MM patch updates
+* Texture issues mostly revolved
+* Removed unneccesary textures in 2.5m folder
+
+
 1.8.5
 
 * Renamed all fuselage profiles
