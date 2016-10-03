@@ -18,9 +18,9 @@ STILL TO DO:
 
 
 
-1.8.6 alpha
+1.8.5.9 
 
-* Updated for KSP 1.2
+* Updated for KSP 1.13
 * Minor adjustments to folder- and texture-structure
 * Removed several superfluous and duplicate textures
 * Replaces several broken textures
@@ -35,9 +35,9 @@ STILL TO DO:
 	- Adjusted control names for consistency and fit with stock standards
 	- Adjusted titles for consistency and fixed typos
 	- Moved all parts to their appropriate categories
-	- Added Transmitters to all Cockpits
-	- Added KerbNet to Labs and Drone Cores
-	- Added Hibernation to Drone Cores
+	- Added Transmitters to all Cockpits (1.2 ready)
+	- Added KerbNet to Labs and Drone Cores (1.2 ready)
+	- Added Hibernation to Drone Cores (1.2 ready)
 	- Added/fixed ModlueScienceConverter and Experience Management on Labs
 	- Disabled Staging on all retractable Docking Ports to fit with stock standards
 	- Moved FuelSwitches and Default Resources to the parts, away from separate cfgs
@@ -46,7 +46,8 @@ STILL TO DO:
 	- Balanced different resources within each FuelSwitch (mostly oriented around Liquid+Oxi)
 	- Fixed and balanced reasonable fuel types according to part type
 	- Slightly normalized fuel levels across several parts
-	- Switched all Cockpits to "Plane" type
+	- Switched all Cockpits to "Plane" type - REDACTED for 1.1.3
+	- Reticulated Splines
 
 
 *Additional major fixes/Changes:
