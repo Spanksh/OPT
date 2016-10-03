@@ -3,4 +3,4 @@ this is a reinforced version of an jet all moving stabilizer ready to be fitted 
 But beware this could provide more manuverbility than you need...
 
 wing c elevons:
-1, deselect angle snap. 2, hover it above the socket. 3, press 'w' twice and 'a' once. 4, your welcome.
+1, deselect angle snap. 2, hover it above the socket. 3, press 'w' twice and 'a' once. 4, you're welcome.

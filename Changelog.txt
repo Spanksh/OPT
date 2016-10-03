@@ -1,7 +1,120 @@
-1.8.5.2
+STILL PRESENT BUGS:
 
-* Textures converted to DXT5 DDS - EXCEPT placeholder (1x1) files.
-* JQS IVA restored
+	- Stail Inline Docking Port doesn't attach to docking ports (? needs testing with new FS and MM)
+	- Stail Inline Docking&Utility Port - Docking port shaft doesn't apply texture properly and has odd inverted mesh around the top
+	- OPT_k_10m_cockpit has wrong texture in intake
+	- l_8m_cockpit has wrong texture in intake
+	- j_engineMount_4 has wrong texture around engine mounts
+	- since Build 1532 Fuel Switch is completely broken
+	- Textures on several Humpback parts have odd artefacts
+	- Front collision mesh on a_8m_cockpit doesn't work.
+
+STILL TO DO:
+	
+	- Add working ModuleDockingBay to b_docking_port1
+	- Align interior in mk23_cockpit
+	- Align interior in k_10m_cockpit
+	- Add missing/balance present tank cost in FS
+
+
+
+1.8.6 alpha
+
+* Updated for KSP 1.2
+* Minor adjustments to folder- and texture-structure
+* Removed several superfluous and duplicate textures
+* Replaces several broken textures
+* Converted all Part textures to DDS for far better visuals ingame (no more pixelation from a distance)
+* Major reformatting and complete overhaul of all cfg files
+	- Removed duplicate or superfluous entries
+	- Added countless missing entries
+	- Added tags to all parts
+	- Sorted all entries in all parts
+	- Fixed faulty entries
+	- Updated outdated entries
+	- Adjusted control names for consistency and fit with stock standards
+	- Adjusted titles for consistency and fixed typos
+	- Moved all parts to their appropriate categories
+	- Added Transmitters to all Cockpits
+	- Added KerbNet to Labs and Drone Cores
+	- Added Hibernation to Drone Cores
+	- Added/fixed ModlueScienceConverter and Experience Management on Labs
+	- Disabled Staging on all retractable Docking Ports to fit with stock standards
+	- Moved FuelSwitches and Default Resources to the parts, away from separate cfgs
+	- Added Default Resources to all parts with FuelSwitch. Picked most reasonable resource according for part type
+	- Added Fuel to parts missing it and FuelSwitch to most of them
+	- Balanced different resources within each FuelSwitch (mostly oriented around Liquid+Oxi)
+	- Fixed and balanced reasonable fuel types according to part type
+	- Slightly normalized fuel levels across several parts
+	- Switched all Cockpits to "Plane" type
+
+
+*Additional major fixes/Changes:
+
+	- Stail:
+		b_dropBay_mk2
+			- Fixed ModuleCargoBay object detection
+			- Added Drag_Cube
+			- Fixed Node orientation
+			- Changed mesh filename for consistency (not part-name)
+		b_dropbay_mk1
+			- Fixed ModuleCargoBay object detection
+			- Added Drag_Cube
+			- Added inner Nodes
+			- Fixed lifting surface	
+		b_cockpit
+			- Increased crew capacity to 5
+			- Switched interior to the finished one from 1.7
+		b_cockpit_qs
+			- Added missing interior from 1.7
+
+	- Wings:
+		stabilizer_1a
+			- Newly Added from 1.7. Slightly different version of stabilizer_a.
+		All Main Wings
+			- Added Liquid Fuel. Balanced according to wing_a1 in relation to effective wing surface
+
+	- Engines:
+		Ari-73
+			- Newly added from 1.7
+
+	- Misc:
+		mk2_ramIntake1
+			- Newly added from 1.7. Slightly different version of mk2_ramIntake.
+				
+		mk2_cockpit
+			- Added missing interior from 1.7
+		ils_cockpit
+			- Fixed texture switcher
+			- Switched interior to the finished one from 1.7
+		phoenix_cockpit
+			- Removed placeholder boxes-interior
+		i_4m_cockpit_isp
+			- Replaced entirely by 1.7 version. Now with fixed texture, decals and lights
+			- Removed placeholder boxes-interior
+		i_4m_tail
+			- Fixed texture
+		mk23_cockpit
+			- Added missing interior. (Still misaligned)
+
+	- Avatar:
+		ab_3m_adaptor
+			- Newly added from 1.7 (formerly jk_3m_adaptor). Shorter version of ab_7m_adaptor.
+		a_8m_cockpit
+			- Newly added from 1.7 (formerly k_8m_cockpit).
+		a_cockpit
+			- Removed placeholder boxes-interior
+
+	- Kraken:
+		k_10m_cockpit
+			- Exchanged misfitting Humpback interior with former b_cockpit interior (still misaligned, but fits slightly better)
+		jk_3m_adaptor
+			- Newly added from 1.7
+		k_10m_cockpit_legacy
+			- Removed placeholder boxes-interior
+		k_10m_cockpit_custom
+			- Removed placeholder boxes-interior
+
 
 1.8.5.1
 
@@ -50,12 +163,14 @@
 * Added FS patch for L bicoupler.
 * Fixed Mk3 Shuttle Nose
 
+
 1.8.1.1
 
 * Added old hollow K parts as C parts, added Deploy limit to C Cargo Tail.
 * Added old J-QS01 cockpit as B-QS01
 * Added old 'integrated' wings as 1a, 1b and 1c
 * Used the fixes uploaded by **AccidentalDisassembly** as basis to roll into new version.
+
 
 1.8.1.0
 
@@ -65,14 +180,16 @@
 * Fixed A Cargo Tail appearing as Bi-Coupler
 * L Cargo Tail fixed to have Deploy Limit.
 
+
 1.8T6
 
 * 1.6, 1.69 and 1.8Test parts incorporated. 
 * Old J parts renamed B parts, Old K parts renamed A Parts.
 * CLS Patch added.
 
-Planned Changes/Updates
 
+
+Planned Changes/Updates
 
 * Double check IFS and CLS patches for all parts.
 * Add real fuels MM patches.
