@@ -17,6 +17,13 @@ STILL TO DO:
 	- Add missing/balance present tank cost in FS
 
 
+1.8.6 Full
+
+* Full 1.2 compatability.
+* Added Stail Bicoupler
+* Updated textures
+* Adjusted Juno 4m side nodes
+* Adjusted Wing root nodes.
 
 1.8.6 alpha
 
