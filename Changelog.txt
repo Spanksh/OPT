@@ -1,27 +1,30 @@
 STILL PRESENT BUGS:
 
+	- Stail Inline Docking Port doesn't attach to docking ports (? needs testing with new FS and MM)
 	- Stail Inline Docking&Utility Port - Docking port shaft doesn't apply texture properly and has odd inverted mesh around the top
 	- OPT_k_10m_cockpit has wrong texture in intake
 	- l_8m_cockpit has wrong texture in intake
 	- j_engineMount_4 has wrong texture around engine mounts
+	- since Build 1532 Fuel Switch is completely broken
 	- Textures on several Humpback parts have odd artefacts
+	- Front collision mesh on a_8m_cockpit doesn't work.
 
 STILL TO DO:
 	
 	- Add working ModuleDockingBay to b_docking_port1
 	- Align interior in mk23_cockpit
 	- Align interior in k_10m_cockpit
+	- Add missing/balance present tank cost in FS
 
 
 
-1.8.6
+1.8.6 alpha
 
-* Updated for KSP 1.1.3/1.2 
+* Updated for KSP 1.2
 * Minor adjustments to folder- and texture-structure
 * Removed several superfluous and duplicate textures
 * Replaces several broken textures
 * Converted all Part textures to DDS for far better visuals ingame (no more pixelation from a distance)
-* Removed craft files, since all are incompatible with current and previous version of OPT
 * Major reformatting and complete overhaul of all cfg files
 	- Removed duplicate or superfluous entries
 	- Added countless missing entries
@@ -49,12 +52,6 @@ STILL TO DO:
 *Additional major fixes/Changes:
 
 	- Stail:
-		b_docking_port
-			- Fixed Editor Errors
-			- Fixed both docking ports
-		b_docking_port1
-			- Removed FireSpitter dependency
-			- Fixed docking port
 		b_dropBay_mk2
 			- Fixed ModuleCargoBay object detection
 			- Added Drag_Cube
@@ -70,14 +67,6 @@ STILL TO DO:
 			- Switched interior to the finished one from 1.7
 		b_cockpit_qs
 			- Added missing interior from 1.7
-		b_4m_lab
-			- Fixed Editor Errors
-		
-	-Juno:
-		j_docking_port
-			- Added missing crew capacity
-		j_sas
-			- Fixed Editor Errors
 
 	- Wings:
 		stabilizer_1a
@@ -115,8 +104,6 @@ STILL TO DO:
 			- Newly added from 1.7 (formerly k_8m_cockpit).
 		a_cockpit
 			- Removed placeholder boxes-interior
-		c_6m_cargoTail
-			- Fixed Editor Errors
 
 	- Kraken:
 		k_10m_cockpit

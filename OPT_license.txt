@@ -8,15 +8,3 @@ Texture inspired by Porkjet
 used stock texture:mk2DockingPort
 Sounds are from:http://www.freespecialeffects.co.uk/
 Maintained by Moobien/stali79
-
-Contributors
-
-M_Ouellette
-Starwaster
-Sebi.ZZR
-Spanksh
-Stone Blue
-Winchester
-Mycroft
-
-
