@@ -1,0 +1,8 @@
+OPT Legacy Spaceplane Parts
+
+1.0
+
+* Removed cockpits that have had texture updates in OPT Main 1.9
+* Removed All Juno parts except for the 7m Cockpit
+* Removed Engines present in OPT Main 1.9
+* Created new .version file for OPT Legacy
