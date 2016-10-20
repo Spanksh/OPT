@@ -6,3 +6,5 @@ OPT Legacy Spaceplane Parts
 * Removed All Juno parts except for the 7m Cockpit
 * Removed Engines present in OPT Main 1.9
 * Created new .version file for OPT Legacy
+* Renamed OPT folder to OPT_Legacy and updated cfg paths
+* Removed IVA present in OPT Main
