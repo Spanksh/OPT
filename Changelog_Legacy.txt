@@ -8,3 +8,4 @@ OPT Legacy Spaceplane Parts
 * Created new .version file for OPT Legacy
 * Renamed OPT folder to OPT_Legacy and updated cfg paths
 * Removed IVA present in OPT Main
+* Removed unused textures/parts
